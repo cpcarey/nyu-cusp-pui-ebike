@@ -1,0 +1,493 @@
+id,name
+16th Depot Bike Station,16th Depot Bike Fleet Station
+16th St Depot,16th St Depot
+BK-A3,College Ave at Alcatraz Ave
+BK-A7,Vine St at Shattuck Ave
+BK-B7,Virginia St at Shattuck Ave
+BK-B9,Hearst Ave at Euclid Ave
+BK-C1,Fifth St at Delaware St
+BK-C5,North Berkeley BART Station
+BK-C6,MLK Jr Way at University Ave
+BK-C7,Shattuck Ave at Hearst Ave
+BK-C8,University Ave at Oxford St
+BK-C9,Hearst Ave at Euclid Ave
+BK-D1,Addison St at Fourth St
+BK-D10,Bancroft Way at College Ave
+BK-D2,10th St at University Ave
+BK-D4,West St at University Ave
+BK-D5,California St at University Ave
+BK-D7-1,Downtown Berkeley BART
+BK-D7-2,Berkeley Civic Center
+BK-E10,Haste St at College Ave
+BK-E2,Channing Way at San Pablo Ave
+BK-E3,Channing Way at San Pablo Ave
+BK-E7,Channing Way at Shattuck Ave
+BK-E8,Fulton St at Bancroft Way
+BK-E9-1,Bancroft Way at Telegraph Ave
+BK-E9-2,Haste St at Telegraph Ave
+BK-F10,Derby St at College Ave
+BK-F2,Ninth St at Parker St
+BK-F7,Milvia St at Derby St
+BK-F8,Parker St at Fulton St
+BK-F9,Telegraph Ave at Carleton St
+BK-G4,San Pablo Park
+BK-G7,Oregon St at Adeline St
+BK-G8,Ellsworth St at Russell St
+BK-G9,Telegraph Ave at Carleton St
+BK-H10,Russell St at College Ave
+BK-H3,Ninth St at Heinz Ave
+BK-H6,Ashby BART Station
+BK-H8,Fulton St at Ashby Ave
+BK-H9,Telegraph Ave at Ashby Ave
+BK-I5,Woolsey St at Sacramento St
+BK-I6,Harmon St at Adeline St
+EM-1,Emeryville Depot
+EM-A1,59th St at Horton St
+EM-A2,Doyle St at 59th St
+EM-B0-2,2100 Powell St
+EM-B1,Emeryville Public Market
+EM-B2,Stanford Ave at Hollis St
+EM-C1,65th St at Hollis St
+EM-C2,53rd St at Hollis St
+EM-C3,47th St at San Pablo Ave
+EM-D2,Horton St at 40th St
+EM-D3,Emeryville Town Hall
+EM-D4,Adeline St at 40th St
+OK-A2,Telegraph Ave at Alcatraz Ave
+OK-A4,College Ave at Harwood Ave
+OK-B1,Alcatraz Ave at Shattuck Ave
+OK-B2,Bushrod Park
+OK-B3,Telegraph Ave at 58th St
+OK-B4,Rockridge BART Station
+OK-B5,College Ave at Taft Ave
+OK-C2,Dover St at 57th St
+OK-C3,55th St at Telegraph Ave
+OK-C4,Miles Ave at Cavour St
+OK-C5,College Ave at Bryant Ave
+OK-D2,Genoa St at 55th St
+OK-D3-1,Shattuck Ave at 55th St
+OK-D3-2,52nd St at MLK Jr Way
+OK-D3-2,Shattuck Ave at 51st St
+OK-D4,49th St at Telegraph Ave
+OK-D4,Telegraph Ave at 49th St
+OK-D5,Broadway at Coronado Ave
+OK-E2,Market St at 45th St
+OK-E3,45th St at MLK Jr Way
+OK-E4,Shattuck Ave at Telegraph Ave
+OK-E5,45th St at Manila
+OK-F2-2,Market St at 45th St
+OK-F3,West St at 40th St
+OK-F4,MacArthur BART Station
+OK-F5,Broadway at 40th St
+OK-G2,Market St at 40th St
+OK-G3,37th St at West St
+OK-G4,MacArthur Blvd at Telegraph Ave
+OK-G5,Mosswood Park
+OK-H2,32nd St at Adeline St
+OK-H3,Market St at Brockhurst St
+OK-H4-3,34th St at Telegraph Ave
+OK-H5,Broadway at 30th St
+OK-H9-1,Grand Ave at Santa Clara Ave
+OK-H9-2,Lakeshore Ave at Trestle Glen Rd
+OK-I3,San Pablo Ave at 27th St
+OK-I4,27th St at MLK Jr Way
+OK-I5,Telegraph Ave at 27th St
+OK-I6,Bay Pl at Vernon St
+OK-I8,Grand Ave at Perkins St
+OK-I9,El Embarcadero at Grand Ave
+OK-J3,24th St at Market St
+OK-J4,Isabella St at San Pablo Ave
+OK-J5,Telegraph Ave at 23rd St
+OK-J6-1,Grand Ave at Webster St
+OK-J6-2,Snow Park
+OK-K17,Foothill Blvd at Harrington Ave
+OK-K2,DeFremery Park
+OK-K3,Marston Campbell Park
+OK-K4,San Pablo Ave at MLK Jr Way
+OK-K5-1,Telegraph Ave at 19th St
+OK-K5-2,19th Street BART Station
+OK-K6,Webster St at 19th St
+OK-K7,Madison St at 17th St
+OK-K9,2nd Ave at E 18th St
+OK-L1,14th St at Mandela Pkwy
+OK-L10,6th Ave at E 12th St (Temporary Location)
+OK-L11,10th Ave at E 15th St
+OK-L12,San Antonio Park
+OK-L13,21st St at 5th Ave
+OK-L14,23rd Ave at Foothill Blvd
+OK-L15,26th Ave at International Blvd
+OK-L16,Foothill Blvd at Fruitvale Ave
+OK-L17,Foothill Blvd at Harrington Ave
+OK-L19,Bond St at High St
+OK-L2,14th St at Mandela Pkwy
+OK-L3,14th St at Filbert St
+OK-L4,MLK Jr Way at 14th St
+OK-L5,Frank H Ogawa Plaza
+OK-L6,13th St at Franklin St
+OK-L6-2,13th St at Webster St
+OK-L7,Jackson St at 11th St
+OK-L7-2,Lakeside Dr at 14th St
+OK-L8,10th St at Fallon St
+OK-L9,4th Ave at E 12th St (Temporary Location)
+OK-M1,West Oakland BART Station
+OK-M14,26th Ave at International Blvd
+OK-M16,Fruitvale Ave at International Blvd
+OK-M16,Farnam St at Fruitvale Ave
+OK-M16,Farnham St at Fruitvale Ave
+OK-M2,Union St at 10th St
+OK-M3,Market St at 8th St
+OK-M4,Market St at 8th St
+OK-M5,Washington St at 8th St
+OK-M6,Franklin St at 9th St
+OK-M7,Lake Merritt BART Station
+OK-N1,West Oakland BART Station
+OK-N17,Fruitvale BART Station
+OK-N6,Jack London Square
+OK-N7,Webster St at 2nd St
+SF Depot,Minnesota St Depot
+SF Depot-2 (Minnesota St Outbound),SF Depot-2 (Minnesota St Outbound)
+SF I29-1,Bryant St at 2nd St
+SF-A19,Fillmore St at Jefferson St
+SF-A20,Buchanan St at North Point St
+SF-A27,The Embarcadero at Sansome St
+SF-AA15,Balboa Park BART Station
+SF-AA28,Egbert Ave at Jennings St
+SF-B19,Bay St at Fillmore St
+SF-B21,Greenwich St at Franklin St
+SF-B22,Chestnut St at Van Ness Ave
+SF-B25,Lombard St at Columbus Ave
+SF-B28,Cruise Terminal at Pier 27
+SF-B28-2,Battery St at Filbert St
+SF-BB17,London St at Geneva Ave
+SF-C20,Greenwich St at Webster St
+SF-C21,Allyne Park (Green St at Gough St)
+SF-C22,Green St at Van Ness Ave
+SF-C25,Powell St at Columbus Ave
+SF-C26,Broadway at Kearny St
+SF-C28-1,The Embarcadero at Vallejo St
+SF-C28-2,Broadway at Battery St
+SF-D24,Leavenworth St at Broadway
+SF-D27,Washington St at Kearny St
+SF-D28,Davis St at Jackson St
+SF-D29,Pier 1/2 at The Embarcadero
+SF-E18,Divisadero St at Clay St
+SF-E20,Webster St at Clay St
+SF-E23,Jackson St at Polk St
+SF-E27,Commercial St at Montgomery St
+SF-E28,Clay St at Battery St
+SF-E28-2,Front St at California St
+SF-E29-1,San Francisco Ferry Building (Harry Bridges Plaza)
+SF-E29-2,Market St at Steuart St
+SF-E29-3,Embarcadero BART Station (Beale St at Market St)
+SF-F15,Spruce St at California St
+SF-F16,Laurel St at California St
+SF-F19,Steiner St at California St
+SF-F23,Fern St at Polk St
+SF-F26,Union Square (Powell St at Post St)
+SF-F27,Post St at Kearny St
+SF-F28-1,Mechanics Monument Plaza (Market St at Bush St)
+SF-F28-2,Montgomery St BART Station (Market St at 2nd St)
+SF-F29,Howard St at Beale St
+SF-F30-1,The Embarcadero at Steuart St
+SF-F30-2,Spear St at Folsom St
+SF-F9,18th Ave at California St
+SF-G10-1,Funston Ave at Clement St
+SF-G10-2,14th Ave at Geary Blvd
+SF-G11,9th Ave at Geary Blvd
+SF-G12,7th Ave at Clement St
+SF-G13,Arguello Blvd at Geary Blvd
+SF-G17,Post St at Baker St
+SF-G18,Post St at Divisadero St
+SF-G19,Raymond Kimbell Playground
+SF-G20,Post St at Webster St
+SF-G23,Myrtle St at Polk St
+SF-G24,Hyde St at Post St
+SF-G25,Jones St at Post St
+SF-G26,Cyril Magnin St at Ellis St
+SF-G27,Powell St BART Station (Market St at 4th St)
+SF-G28-1,Howard St at 2nd St
+SF-G28-2,Natoma St at New Montgomery St
+SF-G29-1,Salesforce Transit Center (Natoma St at 2nd St)
+SF-G29-2,1st St at Folsom St
+SF-G29-3,Tehama St at 1st St
+SF-G30-1,Beale St at Harrison St
+SF-G30-2,The Embarcadero at Bryant St
+SF-G5,Clement St at 32nd Ave
+SF-G6,28th Ave at Geary Blvd
+SF-G7,23rd Ave at Clement St
+SF-G8,21st Ave at Geary Blvd
+SF-G9,17th Ave at Geary Blvd
+SF-H0,Great Hwy at Balboa St
+SF-H12,5th Ave at Anza St
+SF-H13,Arguello Blvd at Edward St
+SF-H14,Stanyan St at Geary Blvd
+SF-H15,Anza St at Collins St
+SF-H16,O'Farrell St at Masonic Ave
+SF-H17,St. Joseph's Ave at Geary Blvd
+SF-H18,O'Farrell St at Divisadero St
+SF-H19,Ellis St at Pierce St
+SF-H20,Webster St at O'Farrell St
+SF-H25,Father Alfred E Boeddeker Park
+SF-H26,Powell St BART Station (Market St at 5th St)
+SF-H26-2,Mint St at Mission St
+SF-H27-1,Yerba Buena Center for the Arts (Howard St at 3rd St)
+SF-H28,Folsom St at 3rd St
+SF-H29,2nd St at Folsom St
+SF-H29,Folsom St at 2nd St
+SF-H30,The Embarcadero at Pier 38
+SF-I16,Masonic Ave at Turk St
+SF-I19,Scott St at Golden Gate Ave
+SF-I20,Turk St at Fillmore St
+SF-I21,Fulton St at Laguna St
+SF-I22,Golden Gate Ave at Franklin St
+SF-I23-1,Golden Gate Ave at Polk St
+SF-I23-2,San Francisco City Hall (Polk St at Grove St)
+SF-I24,San Francisco Public Library (Grove St at Hyde St)
+SF-I25,Civic Center/UN Plaza BART Station (Market St at McAllister St)
+SF-I26-,Howard St at 6th St
+SF-I27,Folsom St at 5th St
+SF-I28,4th St at Harrison St
+SF-I28,Clara St at 4th St
+SF-I29-2,S Park St at 3rd St
+SF-I30,2nd St at Townsend St
+SF-I30-2,Brannan St at Colin P Kelly Jr St
+SF-J1,48th Ave at Cabrillo St
+SF-J10,Funston Ave at Fulton St
+SF-J12,7th Ave at Cabrillo St
+SF-J13,McAllister St at Arguello Blvd
+SF-J14,Turk Blvd at Stanyan St
+SF-J15,Parker Ave at McAllister St
+SF-J16,Grove St at Masonic Ave
+SF-J17,McAllister St at Baker St
+SF-J18,Grove St at Divisadero
+SF-J19,Alamo Square (Steiner St at Fulton St)
+SF-J20,Webster St at Grove St
+SF-J21,Laguna St at Hayes St
+SF-J22-1,Octavia Blvd at Page St
+SF-J22-2,Grove St at Gough St
+SF-J23-1,Market St at 10th St
+SF-J23-2,S Van Ness Ave at Market St
+SF-J24,8th St at Ringold St
+SF-J25,Howard St at 8th St
+SF-J26,Victoria Manalo Draves Park
+SF-J26-2,Folsom St at 7th St
+SF-J27,Bryant St at 6th St
+SF-J28-2,Brannan St at 4th St
+SF-J29,San Francisco Caltrain (Townsend St at 4th St)
+SF-J29-1,3rd St at Townsend St
+SF-J29-3,San Francisco Caltrain Station (King St at 4th St)
+SF-J3,38th Ave at Balboa St
+SF-J5,34th Ave at Balboa St
+SF-K15-,Fell St at Stanyan St
+SF-K17,Central Ave at Fell St
+SF-K17-2,Haight St at Lyon St
+SF-K18,Broderick St at Oak St
+SF-K19,Page St at Scott St
+SF-K20,Pierce St at Haight St
+SF-K21,Koshland Park
+SF-K22-1,Market St at Franklin St
+SF-K22-2,McCoppin St at Valencia St
+SF-K23,Otis St at Brady St
+SF-K24,11th St at Natoma St
+SF-K25,Folsom St at 9th St
+SF-K26,8th St at Brannan St
+SF-K27,7th St at Brannan St
+SF-K27-2,Brannan St at 7th St
+SF-K28,Townsend St at 5th St
+SF-K28-3,Townsend St at 6th St
+SF-K29-1,Berry St at 4th St
+SF-K30-2,China Basin St at 3rd St
+SF-L19,Duboce Park
+SF-L20,Church St at Duboce Ave
+SF-L21,Market St at Dolores St
+SF-L22,Valencia St at Clinton Park
+SF-L24,Folsom St at 13th St
+SF-L25,11th St at Bryant St
+SF-L26,Division St at Potrero Ave
+SF-L27,Townsend St at 7th St
+SF-L27-2,7th St at King St
+SF-L28,Berry St at King St
+SF-L29,Mission Bay Kids Park
+SF-L30-1,4th St at Mission Bay Blvd S
+SF-L31-1,Terry Francois Blvd at Mission Bay Blvd N
+SF-M10,Funston Ave at Irving St
+SF-M11,10th Ave at Irving St
+SF-M12,7th Ave at Irving St
+SF-M13,Frederick St at Arguello Blvd
+SF-M15,Carl St at Cole St
+SF-M20,Sanchez St at 15th St
+SF-M21,Dolores St at 15th St
+SF-M22-1,14th St at Mission St
+SF-M22-2,Valencia St at 16th St
+SF-M24,Folsom St at 15th St
+SF-M25,Bryant St at 15th St
+SF-M26,15th St at Potrero Ave
+SF-M26-2,Alameda St at Henry Adams St
+SF-M27,Irwin St at 8th St
+SF-M28,Hubbell St at 16th St
+SF-M30,4th St at 16th St
+SF-M30-2,Terry Francois Blvd at Warriors Way
+SF-N20-1,16th St at Prosper St
+SF-N20-2,Sanchez St at 17th St
+SF-N21,17th St at Dolores St
+SF-N22-1A,16th St Mission BART
+SF-N22-1B,16th St Mission BART Station 2
+SF-N22-2,17th St at Valencia St
+SF-N23,17th & Folsom Street Park (17th St at Folsom St)
+SF-N24-2,Harrison St at 17th St
+SF-N25,Franklin Square
+SF-N26,Potrero Ave and Mariposa St
+SF-N26,Potrero Ave at Mariposa St
+SF-N27,Rhode Island St at 17th St
+SF-N28,Jackson Playground
+SF-N29,Mississippi St at 17th St
+SF-O12,7th Ave at Lawton St
+SF-O18,Eureka Valley Recreation Center
+SF-O19,18th St at Noe St
+SF-O21,Mission Dolores Park
+SF-O22,Mission Playground
+SF-O23,19th St at Mission St
+SF-O24,Folsom St at 19th St
+SF-O25-1,19th St at Florida St
+SF-O25-2,20th St at Bryant St
+SF-O30,Esprit Park
+SF-O30-2,Illinois St at 20th St
+SF-P21,20th St at Dolores St
+SF-P22,Valencia St at 21st St
+SF-P24,Harrison St at 20th St
+SF-P26,22nd St at Potrero Ave
+SF-P30,22nd St Caltrain Station
+SF-Q21-1,22nd St at Dolores St
+SF-Q21-2,24th St at Chattanooga St
+SF-Q22-1,Valencia St at 22nd St
+SF-Q22-2,Valencia St at 24th St
+SF-Q23-3,24th St at Bartlett St
+SF-Q26,Utah St at 24th St
+SF-Q30,23rd St at Tennessee St
+SF-R19,Jersey St at Castro St
+SF-R20,Jersey St at Church St
+SF-R24,Garfield Square (25th St at Harrison St)
+SF-R26,Potrero del Sol Park (25th St at Utah St)
+SF-S21,Cesar Chavez St at Dolores St
+SF-S22-1,Valencia St at Cesar Chavez St
+SF-S22-2,Guerrero Park
+SF-S24,Precita Park
+SF-S29,Indiana St at Cesar Chavez St
+SF-S30,Illinois St at Cesar Chavez St
+SF-T20,29th St at Church St
+SF-T21,30th St at San Jose Ave
+SF-T22,29th St at Tiffany Ave
+SF-U21,Randall St at Chenery St
+SF-U30,Evans Ave at Newhall St
+SF-V28,Oakdale Ave at Phelps St
+SF-V29,Jerrold Ave at 3rd St
+SF-V29,Jerrold St at 3rd St
+SF-V29,Newhall St at 3rd St
+SF-V30,Mendell St at Fairfax Ave
+SF-V30,Mendall St at Fairfax Ave
+SF-V31,Evans Ave at Mendell St
+SF-V32,Heron's Head Park
+SF-W14,Gennessee St at Monterey Blvd
+SF-W19,Glen Park BART Station
+SF-W19-2,Arlington St at Roanoke St
+SF-W29,McKinnon Ave at 3rd St
+SF-W8,Eucalyptus Dr at 20th Ave
+SF-X14,Judson Ave at Gennessee St
+SF-X19,Alemany Blvd at Silver Ave
+SF-X29,Quesada Ave at 3rd St
+SF-X30,Lane St at Revere Ave
+SF-Y14,Frida Kahlo Way at Cloud Cir
+SF-Y25,Goettingen St at Bacon St
+SF-Y27,Williams Ave at Apollo St
+SF-Y29,Williams Ave at 3rd St
+SF-Y30,Jennings St at Revere Ave
+SF-Z16,Delano Ave at Oneida Ave
+SF-Z28,Carroll Ave at 3rd St
+SF-Z6,Font Blvd at Arballo Dr
+SF-Z7,Holloway Ave at Arellano Ave
+SJ-C9,Metro Dr at Technology Dr
+SJ-D9,Skyport Dr at Technology Dr
+SJ-E10,Gish Rd at 1st St
+SJ-E9,Sonora Ave at 1st St
+SJ-F10,Kerley Dr at Rosemary St
+SJ-G10,1st St at Younger Ave
+SJ-G15,Mercado Way at Sierra Rd
+SJ-H10,Mission St at 1st St
+SJ-H11,Raymond Bernal Jr Memorial Park (8th St at Hedding St)
+SJ-H12,10th St at Mission St
+SJ-H17,Newbury Park Dr at King Rd
+SJ-H9,San Pedro St at Hedding St
+SJ-I10,5th St at Taylor St
+SJ-I11,Taylor St at 9th St
+SJ-I14,23rd St at Taylor St
+SJ-I5,Asbury St at The Alameda
+SJ-I9,George St at 1st St
+SJ-J10,Jackson St at 5th St
+SJ-J11,7th St at Empire St
+SJ-J12-1,10th St at Empire St
+SJ-J12-2,Backesto Park (Jackson St at 13th St)
+SJ-J6,Stockton Ave at Lenzen Ave
+SJ-J8,Autumn Parkway at Coleman Ave
+SJ-J9,Empire St at 1st St
+SJ-K10,2nd St at Julian St
+SJ-K11,Julian St at 6th St
+SJ-K5,Julian St at The Alameda
+SJ-K6,W Julian St at N Morrison St
+SJ-K9,Ryland Park
+SJ-L10,Saint James Park
+SJ-L11,St James St at 9th St
+SJ-L12,N 14th St at E Santa Clara St
+SJ-L13,17th St at Santa Clara St
+SJ-L7-1,SAP Center
+SJ-L7-2,The Alameda at Bush St
+SJ-L9,San Pedro Square
+SJ-L9-2,Devine St at San Pedro St
+SJ-M10-1,San Jose City Hall
+SJ-M10-2,San Fernando St at 4th St
+SJ-M10-3,Paseo De San Antonio at 2nd St
+SJ-M10-4,Fountain Alley at S 2nd St
+SJ-M11-1,Santa Clara St at 7th St
+SJ-M11-2,San Fernando St at 7th St
+SJ-M11-3,9th St at San Fernando St
+SJ-M14,21st St at Santa Clara St
+SJ-M4,San Carlos St at Meridian Ave
+SJ-M5,Park Ave at Race St
+SJ-M6,Cahill Park
+SJ-M6-2,Park Ave at Laurel Grove Ln
+SJ-M7-1,San Jose Diridon Station
+SJ-M8,Almaden Blvd at San Fernando St
+SJ-M8-1,Almaden Blvd at San Fernando St
+SJ-M8-2,Delmas Ave and San Fernando St
+SJ-M9-1,Market St at Park St
+SJ-M9-2,Santa Clara St at Almaden Blvd
+SJ-N10-1,4th St at San Carlos St
+SJ-N10-2,1st St at San Carlos St
+SJ-N10-3,5th St at San Salvador St
+SJ-N11,San Salvador St at 9th St
+SJ-N12-1,San Carlos St at 11th St
+SJ-N14,22nd St at William St
+SJ-N14-2,19th St at William St
+SJ-N5,Sunol St at San Carlos St
+SJ-N5-2,Auzerais Ave at Lincoln Ave
+SJ-N6,Auzerais Ave at Los Gatos Creek Trail
+SJ-N7,Columbia Ave at Bird Ave
+SJ-N9,San Carlos St at Market St
+SJ-O10,Pierce Ave at Market St
+SJ-O11,William St at 10th St
+SJ-O12,William St at 10th St
+SJ-O4,Parkmoor Ave at Race St
+SJ-O9,Almaden Blvd at Balbach St
+SJ-P10,5th St at Virginia St
+SJ-P10-2,Virginia St at 2nd St
+SJ-P6,Bird Ave at Coe Ave
+SJ-P7,Delmas Ave at Virginia St
+SJ-P8,Locust St at Grant St
+SJ-P9,Oak St at 1st St
+SJ-Q10,3rd St at Keyes St
+SJ-Q11,Bestor Art Park
+SJ-Q4,Willow St at Blewett Ave
+SJ-Q5,Bird Ave at Willow St
+SJ-Q8,Palm St at Willow St
+SJ-Q9,Willow St at Vine St
+SJ-R11,South San Jose State (7th St at Humboldt St)
+San Jose Depot,San Jose Depot
